@@ -1,0 +1,79 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0px
+}
+
+.navbaricon {
+    position: absolute;
+    width: 7em;
+    height: 7em;
+    z-index: 2;
+}
+
+.navbartexticon {
+    position: absolute;
+    width: 7.4em;
+    height: 1.5em;
+    margin: 0.7em 0 0 9em;
+    z-index: 2;
+}
+
+.navbarhomebutton {
+    position: absolute;
+    width: 6em;
+    height: 3em;
+    margin: 3em 0 0 9.6em;
+    z-index: 2;
+}
+
+.navbaruploadbutton {
+    position: absolute;
+    width: 6.5em;
+    height: 3em;
+    margin: 2em 0 0 55em;
+    z-index: 2;
+}
+
+.navbarmagnifybutton {
+    position: absolute;
+    width: 2.5em;
+    height: 4em;
+    margin: 1.6em 0 0 63.8em;
+    z-index: 2;
+}
+
+.navbardivider {
+    position: absolute;
+    margin: 0 0 0 18.2em;
+    z-index: 2;
+    background-color: #3e244f;
+    width: 0.07em;
+    height: 7em;
+}
+
+.navbardivider1 {
+    position: absolute;
+    margin: 0 0 0 63em;
+    z-index: 2;
+    background-color: #3e244f;
+    width: 0.07em;
+    height: 7em;
+}
+
+.navbardivider2 {
+    position: absolute;
+    margin: 0 0 0 67em;
+    z-index: 2;
+    background-color: #3e244f;
+    width: 0.07em;
+    height: 7em;
+}
+
+.navbackground {
+    position: absolute;
+    margin: 0 0 0 0;
+    z-index: 1;
+    background-color: #151515;
+    width: 10000em;
+    height: 7em;
+}
