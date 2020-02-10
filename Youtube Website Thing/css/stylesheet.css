@@ -42,6 +42,46 @@ body {
     z-index: 2;
 }
 
+.navbarbellbutton {
+    position: absolute;
+    width: 2.5em;
+    height: 2.6em;
+    margin: 0.6em 0 0 68em;
+    z-index: 2;
+}
+
+.navbarbookbutton {
+    position: absolute;
+    width: 2.5em;
+    height: 2.6em;
+    margin: 4em 0 0 68em;
+    z-index: 2;
+}
+
+.navbarnoticesbutton {
+    position: absolute;
+    width: 6em;
+    height: 2.3333em;
+    margin: 0em 0 0 71.5em;
+    z-index: 3;
+}
+
+.navbarjournalbutton {
+    position: absolute;
+    width: 6em;
+    height: 2.3333em;
+    margin: 2.3333em 0 0 71.5em;
+    z-index: 3;
+}
+
+.navbarprofilebutton {
+    position: absolute;
+    width: 6em;
+    height: 2.3333em;
+    margin: 4.6666em 0 0 71.5em;
+    z-index: 3;
+}
+
 .navbardivider {
     position: absolute;
     margin: 0 0 0 18.2em;
@@ -67,6 +107,15 @@ body {
     background-color: #3e244f;
     width: 0.07em;
     height: 7em;
+}
+
+.navbardivider3 {
+    position: absolute;
+    margin: 3.5em 0 0 67em;
+    z-index: 2;
+    background-color: #3e244f;
+    width: 7em;
+    height: 0.07em;
 }
 
 .navbackground {
